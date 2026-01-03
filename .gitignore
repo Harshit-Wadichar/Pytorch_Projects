@@ -8,3 +8,6 @@ env/
 
 # Python cache
 __pycache__/
+
+#datasets
+Image Classification/animal-faces
